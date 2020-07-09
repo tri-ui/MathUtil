@@ -8,5 +8,5 @@ This repository contains the source code of a simple Java app. It is used to dem
 ## Contact me via:
 1. [GitHub](http://github.com/tri-ui)
 2. [Facebook](http://facebook.com/tri.ui.bis)
- 
+3. [Email]
 ### © 2020 by tri.ui
